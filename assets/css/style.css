@@ -27,11 +27,11 @@ h1 {
 	color: white;
 	font-size: 30px;
 	width: 205px;
-	margin: 10px 0px 10px 50px;
-	padding: 10px 0px 10px 10px;
+	margin: 0px 0px 0px 50px;
+	padding: 15px 0px 20px 10px;
 	background-color: #4aaaa5;
 	float: left;
-	box-shadow: 10px 10px 10px #888888;
+	
 
 }
 
@@ -183,4 +183,73 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #275957;
     box-shadow: 10px 10px 10px #888888;
+}
+.hangman {
+		
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 10px;
+	font-size: 15px;
+	margin: 10px 0px 10px 50px;
+	padding: 10px 30px 10px 30px;
+	background-color: #4aaaa5;
+	float: left;
+	
+
+}
+
+.rpggame {
+
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 10px;
+	font-size: 15px;
+	margin: 10px 0px 10px 50px;
+	padding: 10px 10px 10px 10px;
+	background-color: #4aaaa5;
+	
+}
+
+.triviagame {
+
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 10px;
+	font-size: 15px;
+	margin: 10px 0px 10px 50px;
+	padding: 10px 10px 10px 10px;
+	background-color: #4aaaa5;
+	
+
+}
+
+.rutgers {
+
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 10px;
+	font-size: 15px;
+	margin: 10px 0px 10px 50px;
+	padding: 10px 10px 10px 10px;
+	background-color: #4aaaa5;
+	
+
+}
+
+.rockpaper {
+
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 10px;
+	font-size: 15px;
+	margin: 10px 0px 10px 50px;
+	padding: 10px 10px 10px 10px;
+	background-color: #4aaaa5;
+	
+
 }
