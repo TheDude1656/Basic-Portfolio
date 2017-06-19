@@ -88,6 +88,7 @@ h2 {
 	content: "";
 	display: table;
 	clear: both;
+	box-shadow: 10px 10px 10px #888888;
 
 }
 
@@ -103,7 +104,7 @@ h2 {
 	float: left;
 	margin: 20px 0px 0px 50px;
 	padding: 0px 0px 0px 0px;
-	box-shadow: 10px 10px 10px #888888;
+	
 	
 }
 
@@ -156,4 +157,30 @@ footer {
 	background-color: darkgrey;
 	
 	
+}
+input[type=text], select {
+    width: 90%;
+    padding: 10px 20px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 580px;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px 20px 10px 10px;
+    margin: 0px 10px 10px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px #888888;
+}
+
+input[type=submit]:hover {
+    background-color: #275957;
+    box-shadow: 10px 10px 10px #888888;
 }
