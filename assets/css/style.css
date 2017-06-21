@@ -84,6 +84,7 @@ h2 {
 
 	color: #4aaaa5;
 	background-color: #ffffff;
+	width: 600px;
 	float: left;
 	content: "";
 	display: table;
@@ -169,7 +170,7 @@ input[type=text], select {
 }
 
 input[type=submit] {
-    width: 580px;
+    width: 560px;
     background-color: #4aaaa5;
     color: white;
     padding: 10px 20px 10px 10px;
@@ -204,7 +205,7 @@ input[type=submit]:hover {
 	color: white;
 	position: absolute;
 	top: 200px;
-	left: 10px;
+	left: 250px;
 	font-size: 15px;
 	margin: 10px 0px 10px 50px;
 	padding: 10px 10px 10px 10px;
@@ -217,7 +218,7 @@ input[type=submit]:hover {
 	color: white;
 	position: absolute;
 	top: 200px;
-	left: 10px;
+	left: 450px;
 	font-size: 15px;
 	margin: 10px 0px 10px 50px;
 	padding: 10px 10px 10px 10px;
@@ -230,26 +231,25 @@ input[type=submit]:hover {
 
 	color: white;
 	position: absolute;
-	top: 200px;
+	top: 350px;
 	left: 10px;
 	font-size: 15px;
 	margin: 10px 0px 10px 50px;
 	padding: 10px 10px 10px 10px;
 	background-color: #4aaaa5;
 	
-
 }
 
 .rockpaper {
 
 	color: white;
 	position: absolute;
-	top: 200px;
-	left: 10px;
+	top: 350px;
+	left: 250px;
 	font-size: 15px;
 	margin: 10px 0px 10px 50px;
 	padding: 10px 10px 10px 10px;
 	background-color: #4aaaa5;
 	
-
 }
+
